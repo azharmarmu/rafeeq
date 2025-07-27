@@ -1,5 +1,6 @@
 //parentclass or superclass or baseclass
 class Animal {
+  int age = 0;
   void eat() {
     print('Animal is eating');
   }
